@@ -1,5 +1,7 @@
 {
   "name": "notice-alarm",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
